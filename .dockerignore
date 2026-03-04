@@ -1,0 +1,10 @@
+api_key.txt
+.git
+.gitignore
+__pycache__
+*.pyc
+.env
+.venv
+venv
+*.md
+terminals
