@@ -1,0 +1,18 @@
+{
+  "name": "moy-kalendar",
+  "private": true,
+  "type": "module",
+  "description": "Личный агент Дмитрия Ермолаева: почта, заметки встреч и дела.",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "dev": "bdk dev"
+  },
+  "dependencies": {
+    "@cursor/bdk": "0.2.22",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "6.0.3"
+  }
+}
